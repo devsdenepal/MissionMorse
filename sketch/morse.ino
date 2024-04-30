@@ -606,7 +606,7 @@ void setup() {
   Serial.begin(9600);
   pinMode(led, OUTPUT);
   pinMode(buz, OUTPUT);
-  Serial.println("Please type your message here ");
+//   Serial.println("Please type your message here ");
 }
 
 void loop() {
